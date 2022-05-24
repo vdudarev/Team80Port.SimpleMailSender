@@ -51,7 +51,7 @@ namespace Team80Port.SimpleMailSender
 
         /// <summary>
         /// Отправка сообщения по E-Mail через стандартную компоненту дотнета
-        /// TODO: удалить - это просто тест
+        /// TODO: удалить - это просто тест для проверки базовой работоспособности
         /// </summary>
         /// <param name="fromEmail">мыло от кого</param>
         /// <param name="fromName">имя от кого</param>
